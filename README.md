@@ -1,6 +1,7 @@
-# p5_template
+# Design Creative Coding Workshop Fall 2024
 
-A template for starting a new local p5.js project.
+- Slides: <https://docs.google.com/presentation/d/1Lu3VB9-bwqYoLHq0FqfFz6xZb-14RkYePsQAzVPocEs/edit>
+- Design prompt: <https://editor.p5js.org/pyulie/sketches/YOauzsJuw>
 
 ## Reference
 
@@ -11,4 +12,4 @@ A template for starting a new local p5.js project.
 
 ---
 
-Developed with 💖 by [**@acmcsufoss**](https://oss.acmcsuf.com/)
+Developed with 💖 by [**@EthanThatOneKid**](https://etok.codes/)
