@@ -2,7 +2,7 @@ const circles = [];
 const amount = 100;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   noStroke();
   for (let i = 0; i < amount; i++) {
     circles.push({
@@ -48,4 +48,8 @@ function draw() {
       circle.y = -radius;
     }
   });
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
